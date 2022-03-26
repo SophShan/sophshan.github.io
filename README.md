@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to My First Webiste!!
 
 You can use the [editor on GitHub](https://github.com/SophShan/sophshan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## This is a list:
+-Item 1
+-Item 2
+-Item 3
+
+1.Item 1
+2.Item 2
+3.Item 3
 
 ### Markdown
 
