@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/SophShan/sophshan.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+#Welcome!
+ hello
+ -Item 3
 ## This is a list:
 -Item 1
 -Item 2
