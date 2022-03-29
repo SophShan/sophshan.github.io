@@ -50,3 +50,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 More information: https://happycoding.io/tutorials/html/github-pages 
 https://www.digitalocean.com/community/tutorials/how-to-add-javascript-to-html
+https://www.w3schools.com/js/js_output.asp
